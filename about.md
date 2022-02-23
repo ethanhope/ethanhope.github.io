@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello!
 
 ### More Information
 
-I am from San Diego!
+Born and raised in San Diego, I love going to the beach and spending time in the sun. 
 
 ### Contact me
 
