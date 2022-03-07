@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Group Members
+title: Research 
 permalink: /people/
 ---
 
