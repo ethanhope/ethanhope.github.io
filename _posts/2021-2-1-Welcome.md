@@ -1,5 +1,0 @@
----
-layout: post
-title: Welcome!
-Hello! My name is Ethan Hope and I am a biochem major at California Polytechnic State University with a goal of becoming a dentist in the future. Some activites I am involved in outside of class is research in organic synthesis, shadowing/working at various dental offices, and directing events for the dental outreach program for pre-dental society. Some interests of mine are spending time outside and doing any sort of physical activity! Particularly in San Luis Obispo, I love to go hiking at any of the countless trails in SLO. On top of that, I love to workout at the gym and enjoy specializing my workouts with olympic lifting. 
-
