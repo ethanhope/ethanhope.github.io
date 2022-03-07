@@ -4,4 +4,4 @@ title: Group Members
 permalink: /people/
 ---
 
-Include information about current and past group members here. 
+Currently I am in research with Dr. Palandoken under the broad field of Organic Synthesis. 
