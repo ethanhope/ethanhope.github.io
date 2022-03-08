@@ -12,4 +12,4 @@ Born and raised in San Diego, I love going to the beach and spending time in the
 
 ### Contact me
 
-[ehope@calpoly.edu](mailto:ehope@calpoly.edu)
+ehope@calpoly.edu(mailto:ehope@calpoly.edu)
